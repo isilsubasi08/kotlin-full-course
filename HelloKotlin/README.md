@@ -7,7 +7,7 @@
 - Long: 64 bit işaretli tamsayı değerini temsil eder.
 - Float: 32 bit kayan noktalı sayı değerini temsil eder.
 - Double: 64 bit kayan noktalı sayı değerini temsil eder.
-### Karakter Veri Türleri:
+### Karakter Veri Türü:
 
 - Char: Tek bir karakteri temsil eder.
 ### Boolean Veri Türü:
