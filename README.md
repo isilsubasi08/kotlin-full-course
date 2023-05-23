@@ -6,4 +6,4 @@ Kotlin, JetBrains firması tarafından geliştirilmiş, modern bir programlama d
 Kotlin programlama dilinin güçlü ve esnek bir özelliği, değişkenlerin etkili bir şekilde kullanılabilmesidir. Değişkenler, verileri saklamak ve işlemek için önemli bir rol oynar.
 Örnek kod ve anlatıma burdan ulaşabilirsiniz.<br>
 
--  [Tık✨]()
+-  [Tık✨](https://github.com/isilsubasi08/kotlin-full-course/blob/main/HelloKotlin/README.md)
